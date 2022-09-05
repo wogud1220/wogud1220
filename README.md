@@ -1,7 +1,7 @@
 ### HI 
 
 - 🔭 I’m currently studying on Sangmyung University
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=white">
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/C-orange?style=for-the-badge&logo=&logoColor=white">
 - 📫 How to reach me: yoonwogud@gmail.com
 
 
