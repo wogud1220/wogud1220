@@ -5,7 +5,7 @@
 - 📫 How to reach me: yoonwogud@gmail.com
 - <a href="https://www.instagram.com/wogud12021021/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-배경색(ex.222222)?style=flat&logo=Instagram&link=https://www.instagram.com/wogud12021021/"
+        src="http://img.shields.io/badge/-Instagram-E4405Fstyle=flat&logo=Instagram&link=https://www.instagram.com/wogud12021021/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
