@@ -1,7 +1,8 @@
 ### WELCOME
 ---
 - 🔭 I’m currently studying on Sangmyung University
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white"/>   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
 - 📫 How to reach me: <a href="mailto:yoonwogud@gmail.com"><img src="https://img.shields.io/badge/Yoonwogud@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoonwogud@gmail.com"/></a>
 <a href="https://www.instagram.com/wogud12021021/">    <img 
         src="http://img.shields.io/badge/wogud12021021-white?style=flat&logo=Instagram&link=https://www.instagram.com/wogud12021021/"
