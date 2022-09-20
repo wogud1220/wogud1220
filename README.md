@@ -8,6 +8,7 @@
         src="http://img.shields.io/badge/wogud12021021-white?style=flat&logo=Instagram&link=https://www.instagram.com/wogud12021021/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=blue1220)](https://solved.ac/blue1220/)
 
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fblue1220&count_bg=%230A8902&title_bg=%23000000&icon=microbit.svg&icon_color=%23FF0000&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=true"/></a>
