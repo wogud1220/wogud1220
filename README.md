@@ -13,7 +13,8 @@
 ###
 ---
 ### Languages !!
+
 <img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=C&logoColor=white"/>       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
-![wogud1220's GitHub stats](https://github-readme-stats.vercel.app/api?username=wogud1220&show_icons=true&theme=tokyonight)
+![윤재형 GitHub stats](https://github-readme-stats.vercel.app/api?username=wogud1220&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wogud1220&layout=compact&theme=tokyonight&(https://github.com/wogud1220/github-readme-stats))
