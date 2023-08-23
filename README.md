@@ -21,3 +21,4 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=blue1220)](https://solved.ac/blue1220/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=blue1220)](https://solved.ac/blue1220/)
