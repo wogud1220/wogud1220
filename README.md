@@ -23,4 +23,4 @@
 ![윤재형 GitHub stats](https://github-readme-stats.vercel.app/api?username=wogud1220&show_icons=true&theme=tokyonight) ![Top Langs](<https://github-readme-stats.vercel.app/api/top-langs/?username=wogud1220&langs_count=10&layout=compact&theme=tokyonight&(https://github.com/wogud1220/github-readme-stats)>)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={wogud1220})](https://solved.ac/wogud1220)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=wogud1220)](https://solved.ac/wogud1220)
